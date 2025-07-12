@@ -8,7 +8,7 @@ This project contains a SQL database schema for an online retail store, includin
 
 ## Usage
 
-Online Retail Store Database and it’s Real-World Analysis using MySQL | November, 2024 *Project
+Online Retail Store Database and it’s Real-World Analysis using MySQL
 ∗ Designed a schema for the online store including entity-relationship(ER) diagrams to illustrate table
 relationships.
 ∗ Implemented basic Aggregation Functions, Window Functions, CTEs, and recursive queries for advanced
